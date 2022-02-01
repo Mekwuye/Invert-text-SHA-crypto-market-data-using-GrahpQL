@@ -1,0 +1,11 @@
+C:\Users\Silas\Documents\Visual Studio 2022\Projects\cSharpYoloLibrary\bin\Debug\net6.0\cSharpYoloLibrary.deps.json
+C:\Users\Silas\Documents\Visual Studio 2022\Projects\cSharpYoloLibrary\bin\Debug\net6.0\cSharpYoloLibrary.dll
+C:\Users\Silas\Documents\Visual Studio 2022\Projects\cSharpYoloLibrary\bin\Debug\net6.0\ref\cSharpYoloLibrary.dll
+C:\Users\Silas\Documents\Visual Studio 2022\Projects\cSharpYoloLibrary\bin\Debug\net6.0\cSharpYoloLibrary.pdb
+C:\Users\Silas\Documents\Visual Studio 2022\Projects\cSharpYoloLibrary\obj\Debug\net6.0\cSharpYoloLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silas\Documents\Visual Studio 2022\Projects\cSharpYoloLibrary\obj\Debug\net6.0\cSharpYoloLibrary.AssemblyInfoInputs.cache
+C:\Users\Silas\Documents\Visual Studio 2022\Projects\cSharpYoloLibrary\obj\Debug\net6.0\cSharpYoloLibrary.AssemblyInfo.cs
+C:\Users\Silas\Documents\Visual Studio 2022\Projects\cSharpYoloLibrary\obj\Debug\net6.0\cSharpYoloLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Silas\Documents\Visual Studio 2022\Projects\cSharpYoloLibrary\obj\Debug\net6.0\cSharpYoloLibrary.dll
+C:\Users\Silas\Documents\Visual Studio 2022\Projects\cSharpYoloLibrary\obj\Debug\net6.0\ref\cSharpYoloLibrary.dll
+C:\Users\Silas\Documents\Visual Studio 2022\Projects\cSharpYoloLibrary\obj\Debug\net6.0\cSharpYoloLibrary.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z65+QBEmxYId0x6mL/iiAYKR3wJxpbTNzJ/A3sHbqamG9CweYiTYmREu1IRHnP+M2+XFtmh/SevK29k/NRpwQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Silas\\Documents\\Visual Studio 2022\\Projects\\charpTest2\\charpYolo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

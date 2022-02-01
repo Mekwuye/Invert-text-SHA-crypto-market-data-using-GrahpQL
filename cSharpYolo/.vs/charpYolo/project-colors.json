@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6266e6b-c0e7-4178-94d9-b01825a73293": {
+      "ProjectGuid": "b6266e6b-c0e7-4178-94d9-b01825a73293",
+      "DisplayName": "csharpTestConsoleApp",
+      "ColorIndex": 0
+    },
+    "79733368-bf4f-41e1-b0fb-95ee5ea74ef0": {
+      "ProjectGuid": "79733368-bf4f-41e1-b0fb-95ee5ea74ef0",
+      "DisplayName": "charpTest2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
