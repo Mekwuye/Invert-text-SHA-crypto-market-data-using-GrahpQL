@@ -13,7 +13,7 @@ namespace charpYolo.Controllers
         public async  Task< string> Get()
         {
             //for test, use the overloaded method that accept text as paramenter: cSharpYoloLibrary.Invert.invertPlainText("invert me")
-            return await  cSharpYoloLibrary.Invert.invertPlainText("Hello Yolo");
+            return await  cSharpYoloLibrary.Invert.invertPlainText();
         }
 
 
